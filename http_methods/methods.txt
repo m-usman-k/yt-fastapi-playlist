@@ -1,0 +1,9 @@
+GET | 
+POST | 
+
+
+CRUD OPERATIONS
+CREATE: POST
+READ: get
+UPDATE: put/patch
+DELETE: delete
