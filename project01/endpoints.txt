@@ -1,0 +1,12 @@
+GET | get_tasks 
+GET | get_task - single task based on task_id
+
+POST | add_task
+PUT | put_task - put task based on task_id
+PATCH | patch_task - patch task based on task_id
+DELETE | delete_task - delete task based on task_id
+
+PATCH | start_task - based on task_id
+PATCH | complete_task - based on task_id
+PATCH | reopen_task - based on task_id
+DELETE | clear_completed_tasks
